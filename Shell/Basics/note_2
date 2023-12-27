@@ -1,0 +1,3 @@
+[[:upper:]]*   : every file that start with upper letter
+*[[:upper:]]   : every file that end with upper letter
+same to lower case letter [[:lower:]]
