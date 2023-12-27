@@ -1,0 +1,2 @@
+cd -    : switch to previous directory
+cd ..   : move you back up one level
