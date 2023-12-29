@@ -1,0 +1,11 @@
+    chmod     :   make shell file excutable
+    sudo      :   super user do ( more like do as adminastrator )
+    su        :   switch user
+    chown     :   change owner
+    chgrp     :   change groupe
+    id        :   display infos of groupe or user
+    groups    :   display groups that user belong to
+    whoami    :   display username
+    adduser   :   add user
+    useradd   :   
+    addgroup  :   add group
