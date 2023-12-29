@@ -1,0 +1,14 @@
+error.txt
+files-0
+files-1
+files-2
+files-3
+first
+fourth
+ls-al_output.txt
+ls-output.txt
+ls-sort_output.txt
+result.txt
+second
+third
+typing.txt
