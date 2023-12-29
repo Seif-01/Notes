@@ -1,0 +1,10 @@
+total 0
+drwxr-xr-x 1 root root 4096 Dec 29 16:28 .
+drwxr-xr-x 1 root root 4096 Dec 29 16:24 ..
+-rw-r--r-- 1 root root    0 Dec 29 16:24 files-0
+-rw-r--r-- 1 root root    0 Dec 29 16:24 files-1
+-rw-r--r-- 1 root root    0 Dec 29 16:24 files-2
+-rw-r--r-- 1 root root    0 Dec 29 16:24 files-3
+-rw-r--r-- 1 root root    0 Dec 29 16:28 ls-al_output.txt
+-rw-r--r-- 1 root root   46 Dec 29 16:27 ls-output.txt
+/root/Notes/Shell/IO_Redirections/test
