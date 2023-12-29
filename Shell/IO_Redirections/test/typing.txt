@@ -1,0 +1,3 @@
+typing this command sending the input to typing.txt file
+cat > typing.txt
+so cool
