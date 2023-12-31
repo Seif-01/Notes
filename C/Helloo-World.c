@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-printf("i\n live\n in\n canada\n");
+printf("i\nlive\nin\ncanada\n");
 return 0;
 }
