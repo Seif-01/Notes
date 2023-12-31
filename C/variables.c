@@ -10,5 +10,8 @@ int age = 23; //integer
 float height = 174.5; //float
 char bloodtype = 'B';  //single character
 char country[] = "canada"; //array of character
-    return 0;
+   
+   printf("you are %d cm" ,height);
+
+return 0;
 }
