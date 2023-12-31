@@ -11,7 +11,7 @@ float height = 174.5; //float
 char bloodtype = 'B';  //single character
 char country[] = "canada"; //array of character
    
-   printf("you living in %s",country);
+   printf("you living in %s\n",country);
    printf("you are %.1f cm" ,height);
 
 return 0;
