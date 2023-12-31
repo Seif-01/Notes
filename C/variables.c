@@ -14,6 +14,8 @@ char country[] = "canada"; //array of character
    printf("you living in %s\n",country);
    printf("you are %.1f cm\n" ,height);
    printf("your blood type is %C\n" ,bloodtype);
+   printf("your age is %d",age);
+
 
 return 0;
 }
