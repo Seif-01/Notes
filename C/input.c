@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-int main (){
- char name[100];
+int main ()
+{
+ char name[20];
  printf("Enter Your Name :");
- scanf("%s",name);
+ scanf("%s", name);
  printf("Your name is %s",name);
 
     return 0;
