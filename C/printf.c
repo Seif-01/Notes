@@ -2,7 +2,7 @@
 
 int main (){
 
-printf("%d", 900); //print number
-printf("g"); 
+printf("%d\t", 900); //print number
+printf("%s","seconds"); //print text
     return 0;
 }
